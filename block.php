@@ -1,13 +1,11 @@
 <?php
 /**
-Plugin Name: ua-list-pages-block
+Plugin Name: List Pages Block
 Plugin URI: https://github.com/UdiAzulay/Wordpress-list-pages-block
-Version: 1.0.0
+Version: 1.1
 Author: Udi Azulay
 Author uri: http://www.modern-sys.com
-Description: Add gutenberg block to show child pages / posts
-Text Domain: list-pages-block
-Domain Path: /languages
+Description: Add Gutenberg block to display child pages / posts with images
 */
 
 function enqueue_block_ua_list_pages() 
