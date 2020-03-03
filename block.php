@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: List Pages Block
-Plugin URI: https://github.com/UdiAzulay/Wordpress-list-pages-block
+Plugin URI: https://github.com/UdiAzulay/ua-list-pages
 Version: 1.1
 Author: Udi Azulay
 Author uri: http://www.modern-sys.com
